@@ -1,0 +1,38 @@
+{
+  "vue/exports/home/home.ts": {
+    "file": "assets/home.dff68f04.js",
+    "src": "vue/exports/home/home.ts",
+    "isEntry": true,
+    "imports": [
+      "_shared.js",
+      "_vendor.js"
+    ],
+    "css": [
+      "assets/home.ae1c6eb1.css"
+    ]
+  },
+  "vue/exports/about/about.ts": {
+    "file": "assets/about.582d9e29.js",
+    "src": "vue/exports/about/about.ts",
+    "isEntry": true,
+    "imports": [
+      "_shared.js",
+      "_vendor.js"
+    ],
+    "css": [
+      "assets/about.6193ff64.css"
+    ]
+  },
+  "_vendor.js": {
+    "file": "vendor.js"
+  },
+  "_shared.js": {
+    "file": "shared.js",
+    "imports": [
+      "_vendor.js"
+    ],
+    "css": [
+      "assets/shared.1e3547af.css"
+    ]
+  }
+}

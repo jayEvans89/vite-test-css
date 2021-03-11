@@ -1,0 +1,72 @@
+[
+  {
+    "name": "AdvisorLearningHub",
+    "data": [
+      {
+        "order": 1,
+        "title": "Getting Student Reports",
+        "message": "As students engage with our STEM modules, you can access reports on each. All you need to do is click report for the desired students to go to the module page.",
+        "help": false
+      },
+      {
+        "order": 2,
+        "title": "Exporting data",
+        "message": "Simply select the Export button for a copy of all the data on the page. You can do this on every page within this section.",
+        "help": false
+      },
+      {
+        "order": 3,
+        "title": "Filtering students for export",
+        "message": "Select the students you want to feature in the report by ticking the box next to their names. Click the export button in the right corner to export a list of all those selected.",
+        "help": false
+      },
+      {
+        "order": 4,
+        "title": "Student Search",
+        "message": "For a more specific search, you can type a students name into the search bar. A useful function if you have hundreds of students on you dashboard.",
+        "help": false
+      },
+      {
+        "order": 5,
+        "title": "Need Help?",
+        "message": "If you would like to go through this tutorial again please click the ‘Information’ button on the page. Alternatively, you can visit the help centre for more information and tips.",
+        "help": true
+      }
+    ]
+  },
+  {
+    "name": "AdvisorStudents",
+    "data": [
+      {
+        "order": 1,
+        "title": "Student specific actions",
+        "message": "Next to each student destination are three dots. Click on these dots to take student specific actions. e.g., you can edit profiles, view dashboards, add tasks or encounters, or you can remove a student.",
+        "help": false
+      },
+      {
+        "order": 2,
+        "title": "Setting actions for multiple students",
+        "message": "To action tasks or add encounters for multiple students is easy. Select the students you want to create an action for by ticking the box next to their names. The action button in the right corner will light up. Click the button to create an action. The button only lights when multiple students are selected.",
+        "help": false
+      },
+      {
+        "order": 3,
+        "title": "Filtering data",
+        "message": "You can filter your student data in four ways: Year, Career, Animal, and Destination. This will give you a quick overview of students in each category. For a more specific search, you can type a students name into the search bar. A useful function if you have hundreds of students on you dashboard.",
+        "help": false
+      },
+      {
+        "order": 4,
+        "title": "Exporting data",
+        "message": "Need a quick spreadsheet of all your data? You can download it at the click of a button. SImply select the Export button above the student chart for a copy of all the data in your student base.",
+        "help": false
+      },
+      {
+        "order": 5,
+        "title": "Need Help?",
+        "message": "If you would like to go through this tutorial again please click the ‘Information’ button on the page. Alternatively, you can visit the help centre for more information and tips.",
+        "help": true
+      }
+    ]
+  }
+]
